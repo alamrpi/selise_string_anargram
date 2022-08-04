@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selise.stringAnargram", "selise.stringAnargram\selise.stringAnargram.csproj", "{7D5C88E8-16BC-45AE-AAD5-FCA544C41925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5C88E8-16BC-45AE-AAD5-FCA544C41925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5C88E8-16BC-45AE-AAD5-FCA544C41925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5C88E8-16BC-45AE-AAD5-FCA544C41925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5C88E8-16BC-45AE-AAD5-FCA544C41925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAF9238-F50E-413B-80B4-66EB3689351F}
+	EndGlobalSection
+EndGlobal

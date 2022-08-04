@@ -1,0 +1,14 @@
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\bin\Debug\netcoreapp3.1\selise.stringAnargram.exe
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\bin\Debug\netcoreapp3.1\selise.stringAnargram.deps.json
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\bin\Debug\netcoreapp3.1\selise.stringAnargram.runtimeconfig.json
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\bin\Debug\netcoreapp3.1\selise.stringAnargram.runtimeconfig.dev.json
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\bin\Debug\netcoreapp3.1\selise.stringAnargram.dll
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\bin\Debug\netcoreapp3.1\selise.stringAnargram.pdb
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.csproj.AssemblyReference.cache
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.AssemblyInfoInputs.cache
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.AssemblyInfo.cs
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.csproj.CoreCompileInputs.cache
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.dll
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.pdb
+C:\Users\sunit\OneDrive\Desktop\selist\selise.stringAnargram\selise.stringAnargram\obj\Debug\netcoreapp3.1\selise.stringAnargram.genruntimeconfig.cache
